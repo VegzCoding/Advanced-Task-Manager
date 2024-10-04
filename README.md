@@ -1,6 +1,6 @@
 
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://raw.githubusercontent.com/VegzCoding/Advanced-Task-Manager/refs/heads/main/Exemple.gif)
 
 ## Key Features
 
