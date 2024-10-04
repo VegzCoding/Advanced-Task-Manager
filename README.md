@@ -30,9 +30,9 @@ $ pip install matplotlib
 
 
 
-## Download
+## Download ( SOON ) 
 
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) directly in order to be able to test the application.
+You can [download]() directly in order to be able to test the application. 
 
 ## Credits
 
